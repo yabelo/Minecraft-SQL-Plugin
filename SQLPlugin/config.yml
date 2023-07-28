@@ -1,0 +1,9 @@
+welcome-message: '&bHi &l&a%pn%'
+need-to-login-message:
+ - '&bWelcome back to our server.'
+ - '&bYou need to login.'
+ - '&bUsage /login <password>'
+need-to-register-message:
+ - '&bWelcome to our server.'
+ - '&bYou need to register for first.'
+ - '&bUsage /register <password>'

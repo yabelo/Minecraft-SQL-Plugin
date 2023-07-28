@@ -1,0 +1,8 @@
+name: SQLPlugin
+version: '1.0'
+main: Main.Main
+author: Yablo
+
+commands:
+  register:
+  login:
